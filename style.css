@@ -24,7 +24,15 @@ h3, h5, .attribution {
 }
 
 .kira, .jane {
-	color: #6281a5;
+	color: #475c74;
+}
+
+.quote {
+	position: absolute;
+	left: 30rem;
+	size: 30px;
+	width: auto;
+	border: none;
 }
 
 header {
